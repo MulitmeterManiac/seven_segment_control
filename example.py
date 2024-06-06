@@ -1,5 +1,5 @@
 #import module
-import comm_cathode
+import comm_anode
 import time
 
 #create object to control
